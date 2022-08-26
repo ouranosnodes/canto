@@ -474,14 +474,14 @@ img {
 .skills__embeddedprogramming {
   width: 85%;
 }
-.skills__micro {
-  width: 75%;
+.skills__dev {
+  width: 5%;
 }
-.skills__orcad {
-  width: 65%;
+.skills__cpp {
+  width: 0%;
 }
-.skills__vhdl {
-  width: 60%;
+.skills__liquidity {
+  width: 95%;
 }
 .skills__verilog {
   width: 60%;
