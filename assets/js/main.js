@@ -181,7 +181,7 @@ themeButton.addEventListener('click', () => {
 // Typed script
 
 var Typed = new Typed(".typing", {
-    strings: ["1st shib on canto", "Community based",  "0 tax on buys and sells"],
+    strings: ["1st kishu on ETHF", "Community based",  "0 tax on buys and sells"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
