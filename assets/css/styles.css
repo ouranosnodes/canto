@@ -475,13 +475,13 @@ img {
   width: 85%;
 }
 .skills__dev {
-  width: 2%;
+  width: 0%;
 }
 .skills__cpp {
   width: 0%;
 }
 .skills__liquidity {
-  width: 98%;
+  width: 100%;
 }
 .skills__verilog {
   width: 60%;
